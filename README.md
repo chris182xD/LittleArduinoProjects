@@ -1,1 +1,2 @@
 # ArduinoProjects
+small projects in arduino the first project is a binary calculator with push buttons but you can also use the switchs shows the result in the monitor series and LEDs, the code can be easily modified to have the control of qualifications with LEDs
